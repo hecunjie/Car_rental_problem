@@ -13,5 +13,6 @@ In this repository, I will share some codes about some algorithems in RL
 Hope it could be helpful!
 
 
-The first algorithem I share is value iteration in jack car rental problem
+The first algorithem I share is value iteration in jack car rental problem.
 
+I used numpy to accelarate the computation.
